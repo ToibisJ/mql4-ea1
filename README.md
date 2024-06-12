@@ -1,0 +1,1 @@
+In this version I change the stop loss and the moving average inside the programme. No it work more stable all the other feature works well I will keep measuring the quality off day open tray and the closing trade buy and sell long and short for now everything is work stable
